@@ -68,7 +68,3 @@ The baggage tracker. It addresses the single largest named complaint category (2
 *   Whether baggage/refund complaints correlate with a measurable NPS or repeat-booking drop — the single most important number this case doesn't have.
 *   What proportion of current baggage/refund complaints are actually visibility-driven versus resolution-driven, since this case assumes a meaningful share is visibility-driven but hasn't validated the exact split.
 *   Current customer-support contact volume for these three categories, to establish a baseline the guardrail metrics can be measured against.
-
-# Scope Note
-
-This is a rescoped, product-layer version of a broader business-strategy analysis of Air India's turnaround, which also examined direct-booking economics and a loyalty-program redesign. That analysis remains valid as business-strategy reasoning but is intentionally out of scope here, which focuses only on the feature-level product case a fresher APM would realistically be asked to design.
